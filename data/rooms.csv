@@ -17,10 +17,3 @@ room_id,room_type,price_per_night,availability
 16,Single,100,Yes
 17,Double,150,No
 18,Suite,250,Yes
-19,Single,100,Yes
-20,Double,150,Yes
-21,Suite,250,No
-22,Single,100,Yes
-23,Double,150,Yes
-24,Suite,250,Yes
-25,Single,100,No

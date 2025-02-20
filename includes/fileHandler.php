@@ -1,4 +1,27 @@
 <?php
+function saveBookingToCSV($booking) {
+    $filePath = __DIR__ . '/../data/bookings.csv'; // Path to bookings.csv
+
+    // Check if the file is empty or doesn't exist
+    $isFileEmpty = !file_exists($filePath) || filesize($filePath) == 0;
+
+    // Open the file in append mode
+    $file = fopen($filePath, 'a');
+
+    // If the file is empty, write the header row first
+    if ($isFileEmpty) {
+        fputcsv($file, ['name', 'room_type', 'check_in', 'check_out']);
+    }
+
+    // Write the booking data to the file
+    $success = fputcsv($file, $booking);
+
+    // Close the file
+    fclose($file);
+
+    return $success !== false;
+}
+
 function readRoomsFromCSV() {
     $filePath = __DIR__ . '/../data/rooms.csv'; // Path to rooms.csv
     $rooms = [];

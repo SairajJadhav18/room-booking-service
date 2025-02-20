@@ -3,30 +3,162 @@
         "room_id": 1,
         "room_type": "Single",
         "price_per_night": 100,
-        "availability": "Yes"
+        "availability": "Yes",
+        "description": "A cozy single room with a comfortable bed and a view of the garden.",
+        "amenities": ["Free Wi-Fi", "TV", "Air Conditioning"],
+        "image_url": "images/room1.jpg"
     },
     {
         "room_id": 2,
         "room_type": "Double",
         "price_per_night": 150,
-        "availability": "Yes"
+        "availability": "Yes",
+        "description": "A spacious double room with two queen-sized beds and a balcony.",
+        "amenities": ["Free Wi-Fi", "TV", "Air Conditioning", "Mini Fridge"],
+        "image_url": "images/room2.jpg"
     },
     {
         "room_id": 3,
         "room_type": "Suite",
         "price_per_night": 250,
-        "availability": "Yes"
+        "availability": "Yes",
+        "description": "A luxurious suite with a king-sized bed, living area, and private jacuzzi.",
+        "amenities": ["Free Wi-Fi", "TV", "Air Conditioning", "Mini Bar", "Room Service"],
+        "image_url": "images/room3.jpg"
     },
     {
         "room_id": 4,
         "room_type": "Single",
         "price_per_night": 100,
-        "availability": "No"
+        "availability": "No",
+        "description": "A cozy single room with a comfortable bed and a view of the garden.",
+        "amenities": ["Free Wi-Fi", "TV", "Air Conditioning"],
+        "image_url": "images/room1.jpg"
     },
     {
         "room_id": 5,
         "room_type": "Double",
         "price_per_night": 150,
-        "availability": "Yes"
+        "availability": "Yes",
+        "description": "A spacious double room with two queen-sized beds and a balcony.",
+        "amenities": ["Free Wi-Fi", "TV", "Air Conditioning", "Mini Fridge"],
+        "image_url": "images/room2.jpg"
+    },
+    {
+        "room_id": 6,
+        "room_type": "Single",
+        "price_per_night": 100,
+        "availability": "Yes",
+        "description": "A cozy single room with a comfortable bed and a view of the garden.",
+        "amenities": ["Free Wi-Fi", "TV", "Air Conditioning"],
+        "image_url": "images/room1.jpg"
+    },
+    {
+        "room_id": 7,
+        "room_type": "Double",
+        "price_per_night": 150,
+        "availability": "No",
+        "description": "A spacious double room with two queen-sized beds and a balcony.",
+        "amenities": ["Free Wi-Fi", "TV", "Air Conditioning", "Mini Fridge"],
+        "image_url": "images/room2.jpg"
+    },
+    {
+        "room_id": 8,
+        "room_type": "Suite",
+        "price_per_night": 250,
+        "availability": "Yes",
+        "description": "A luxurious suite with a king-sized bed, living area, and private jacuzzi.",
+        "amenities": ["Free Wi-Fi", "TV", "Air Conditioning", "Mini Bar", "Room Service"],
+        "image_url": "images/room3.jpg"
+    },
+    {
+        "room_id": 9,
+        "room_type": "Single",
+        "price_per_night": 100,
+        "availability": "Yes",
+        "description": "A cozy single room with a comfortable bed and a view of the garden.",
+        "amenities": ["Free Wi-Fi", "TV", "Air Conditioning"],
+        "image_url": "images/room1.jpg"
+    },
+    {
+        "room_id": 10,
+        "room_type": "Double",
+        "price_per_night": 150,
+        "availability": "Yes",
+        "description": "A spacious double room with two queen-sized beds and a balcony.",
+        "amenities": ["Free Wi-Fi", "TV", "Air Conditioning", "Mini Fridge"],
+        "image_url": "images/room2.jpg"
+    },
+    {
+        "room_id": 11,
+        "room_type": "Suite",
+        "price_per_night": 250,
+        "availability": "No",
+        "description": "A luxurious suite with a king-sized bed, living area, and private jacuzzi.",
+        "amenities": ["Free Wi-Fi", "TV", "Air Conditioning", "Mini Bar", "Room Service"],
+        "image_url": "images/room3.jpg"
+    },
+    {
+        "room_id": 12,
+        "room_type": "Single",
+        "price_per_night": 100,
+        "availability": "Yes",
+        "description": "A cozy single room with a comfortable bed and a view of the garden.",
+        "amenities": ["Free Wi-Fi", "TV", "Air Conditioning"],
+        "image_url": "images/room1.jpg"
+    },
+    {
+        "room_id": 13,
+        "room_type": "Double",
+        "price_per_night": 150,
+        "availability": "Yes",
+        "description": "A spacious double room with two queen-sized beds and a balcony.",
+        "amenities": ["Free Wi-Fi", "TV", "Air Conditioning", "Mini Fridge"],
+        "image_url": "images/room2.jpg"
+    },
+    {
+        "room_id": 14,
+        "room_type": "Suite",
+        "price_per_night": 250,
+        "availability": "Yes",
+        "description": "A luxurious suite with a king-sized bed, living area, and private jacuzzi.",
+        "amenities": ["Free Wi-Fi", "TV", "Air Conditioning", "Mini Bar", "Room Service"],
+        "image_url": "images/room3.jpg"
+    },
+    {
+        "room_id": 15,
+        "room_type": "Single",
+        "price_per_night": 100,
+        "availability": "No",
+        "description": "A cozy single room with a comfortable bed and a view of the garden.",
+        "amenities": ["Free Wi-Fi", "TV", "Air Conditioning"],
+        "image_url": "images/room1.jpg"
+    },
+    {
+        "room_id": 16,
+        "room_type": "Single",
+        "price_per_night": 100,
+        "availability": "Yes",
+        "description": "A cozy single room with a comfortable bed and a view of the garden.",
+        "amenities": ["Free Wi-Fi", "TV", "Air Conditioning"],
+        "image_url": "images/room1.jpg"
+    },
+    {
+        "room_id": 17,
+        "room_type": "Double",
+        "price_per_night": 150,
+        "availability": "No",
+        "description": "A spacious double room with two queen-sized beds and a balcony.",
+        "amenities": ["Free Wi-Fi", "TV", "Air Conditioning", "Mini Fridge"],
+        "image_url": "images/room2.jpg"
+    },
+    {
+        "room_id": 18,
+        "room_type": "Suite",
+        "price_per_night": 250,
+        "availability": "Yes",
+        "description": "A luxurious suite with a king-sized bed, living area, and private jacuzzi.",
+        "amenities": ["Free Wi-Fi", "TV", "Air Conditioning", "Mini Bar", "Room Service"],
+        "image_url": "images/room3.jpg"
     }
 ]

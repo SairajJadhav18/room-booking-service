@@ -1,11 +1,6 @@
 <?php
-// Enable error reporting for debugging
-error_reporting(E_ALL);
-ini_set('display_errors', 1);
-
 // Include reusable PHP files
 require_once __DIR__ . '/../includes/fileHandler.php';
-require_once __DIR__ . '/../includes/validator.php';
 
 // Include the header
 require_once __DIR__ . '/../templates/header.php';
@@ -33,6 +28,9 @@ if (isset($_GET['room_id'])) {
         echo "<p><strong>Room Type:</strong> {$roomDetails['room_type']}</p>";
         echo "<p><strong>Price Per Night:</strong> {$roomDetails['price_per_night']}</p>";
         echo "<p><strong>Availability:</strong> {$roomDetails['availability']}</p>";
+        echo "<p><strong>Description:</strong> {$roomDetails['description']}</p>";
+        echo "<p><strong>Amenities:</strong> " . implode(", ", $roomDetails['amenities']) . "</p>";
+        echo "<img src='{$roomDetails['image_url']}' alt='Room Image' style='max-width: 100%; height: auto;'>";
     } else {
         echo "<p>Room not found.</p>";
     }
