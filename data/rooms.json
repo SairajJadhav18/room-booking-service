@@ -1,0 +1,32 @@
+[
+    {
+        "room_id": 1,
+        "room_type": "Single",
+        "price_per_night": 100,
+        "availability": "Yes"
+    },
+    {
+        "room_id": 2,
+        "room_type": "Double",
+        "price_per_night": 150,
+        "availability": "Yes"
+    },
+    {
+        "room_id": 3,
+        "room_type": "Suite",
+        "price_per_night": 250,
+        "availability": "Yes"
+    },
+    {
+        "room_id": 4,
+        "room_type": "Single",
+        "price_per_night": 100,
+        "availability": "No"
+    },
+    {
+        "room_id": 5,
+        "room_type": "Double",
+        "price_per_night": 150,
+        "availability": "Yes"
+    }
+]
