@@ -6,7 +6,11 @@
         "availability": "Yes",
         "description": "A cozy single room with a comfortable bed and a view of the garden.",
         "amenities": ["Free Wi-Fi", "TV", "Air Conditioning"],
-        "image_url": "images/room1.jpg"
+        "images": [
+            "../images/room1-1.jpg",
+            "../images/room1-2.jpg",
+            "../images/room1-3.jpg"
+        ]
     },
     {
         "room_id": 2,
@@ -15,7 +19,10 @@
         "availability": "Yes",
         "description": "A spacious double room with two queen-sized beds and a balcony.",
         "amenities": ["Free Wi-Fi", "TV", "Air Conditioning", "Mini Fridge"],
-        "image_url": "images/room2.jpg"
+        "images": [
+            "../images/room2-1.jpg",
+            "../images/room2-2.jpg" 
+        ]
     },
     {
         "room_id": 3,
@@ -24,7 +31,10 @@
         "availability": "Yes",
         "description": "A luxurious suite with a king-sized bed, living area, and private jacuzzi.",
         "amenities": ["Free Wi-Fi", "TV", "Air Conditioning", "Mini Bar", "Room Service"],
-        "image_url": "images/room3.jpg"
+        "images": [
+            "../images/room3-1.jpg",
+            "../images/room3-2.jpg" 
+        ]
     },
     {
         "room_id": 4,
@@ -33,7 +43,10 @@
         "availability": "No",
         "description": "A cozy single room with a comfortable bed and a view of the garden.",
         "amenities": ["Free Wi-Fi", "TV", "Air Conditioning"],
-        "image_url": "images/room1.jpg"
+        "images": [
+            "../images/room4-1.jpg",
+            "../images/room4-2.jpg" 
+        ]
     },
     {
         "room_id": 5,
@@ -42,7 +55,10 @@
         "availability": "Yes",
         "description": "A spacious double room with two queen-sized beds and a balcony.",
         "amenities": ["Free Wi-Fi", "TV", "Air Conditioning", "Mini Fridge"],
-        "image_url": "images/room2.jpg"
+        "images": [
+            "../images/room5-1.jpg",
+            "../images/room5-2.jpg" 
+        ]
     },
     {
         "room_id": 6,
@@ -51,7 +67,10 @@
         "availability": "Yes",
         "description": "A cozy single room with a comfortable bed and a view of the garden.",
         "amenities": ["Free Wi-Fi", "TV", "Air Conditioning"],
-        "image_url": "images/room1.jpg"
+        "images": [
+            "../images/room6-1.jpg",
+            "../images/room6-2.jpg" 
+        ]
     },
     {
         "room_id": 7,
@@ -60,7 +79,10 @@
         "availability": "No",
         "description": "A spacious double room with two queen-sized beds and a balcony.",
         "amenities": ["Free Wi-Fi", "TV", "Air Conditioning", "Mini Fridge"],
-        "image_url": "images/room2.jpg"
+        "images": [
+            "../images/room7-1.jpg",
+            "../images/room7-2.jpg" 
+        ]
     },
     {
         "room_id": 8,
@@ -69,7 +91,10 @@
         "availability": "Yes",
         "description": "A luxurious suite with a king-sized bed, living area, and private jacuzzi.",
         "amenities": ["Free Wi-Fi", "TV", "Air Conditioning", "Mini Bar", "Room Service"],
-        "image_url": "images/room3.jpg"
+        "images": [
+            "../images/room8-1.jpg",
+            "../images/room8-2.jpg" 
+        ]
     },
     {
         "room_id": 9,
@@ -78,7 +103,10 @@
         "availability": "Yes",
         "description": "A cozy single room with a comfortable bed and a view of the garden.",
         "amenities": ["Free Wi-Fi", "TV", "Air Conditioning"],
-        "image_url": "images/room1.jpg"
+        "images": [
+            "../images/room9-1.jpg",
+            "../images/room9-2.jpg" 
+        ]
     },
     {
         "room_id": 10,
@@ -87,7 +115,11 @@
         "availability": "Yes",
         "description": "A spacious double room with two queen-sized beds and a balcony.",
         "amenities": ["Free Wi-Fi", "TV", "Air Conditioning", "Mini Fridge"],
-        "image_url": "images/room2.jpg"
+        "images": [
+            "../images/room4-1.jpg",
+            "../images/room2-2.jpg",
+            "../images/room2-1.jpg"
+        ]
     },
     {
         "room_id": 11,
@@ -96,7 +128,11 @@
         "availability": "No",
         "description": "A luxurious suite with a king-sized bed, living area, and private jacuzzi.",
         "amenities": ["Free Wi-Fi", "TV", "Air Conditioning", "Mini Bar", "Room Service"],
-        "image_url": "images/room3.jpg"
+        "images": [
+            "../images/room3-1.jpg",
+            "../images/room3-2.jpg",
+            "../images/room1-3.jpg"
+        ]
     },
     {
         "room_id": 12,
@@ -105,7 +141,10 @@
         "availability": "Yes",
         "description": "A cozy single room with a comfortable bed and a view of the garden.",
         "amenities": ["Free Wi-Fi", "TV", "Air Conditioning"],
-        "image_url": "images/room1.jpg"
+        "images": [
+            "../images/room1-1.jpg",
+            "../images/room1-2.jpg" 
+        ]
     },
     {
         "room_id": 13,
@@ -114,7 +153,10 @@
         "availability": "Yes",
         "description": "A spacious double room with two queen-sized beds and a balcony.",
         "amenities": ["Free Wi-Fi", "TV", "Air Conditioning", "Mini Fridge"],
-        "image_url": "images/room2.jpg"
+        "images": [
+            "../images/room2-1.jpg",
+            "../images/room6-2.jpg" 
+        ]
     },
     {
         "room_id": 14,
@@ -123,7 +165,10 @@
         "availability": "Yes",
         "description": "A luxurious suite with a king-sized bed, living area, and private jacuzzi.",
         "amenities": ["Free Wi-Fi", "TV", "Air Conditioning", "Mini Bar", "Room Service"],
-        "image_url": "images/room3.jpg"
+        "images": [
+            "../images/room3-1.jpg",
+            "../images/room1-1.jpg" 
+        ]
     },
     {
         "room_id": 15,
@@ -132,7 +177,10 @@
         "availability": "No",
         "description": "A cozy single room with a comfortable bed and a view of the garden.",
         "amenities": ["Free Wi-Fi", "TV", "Air Conditioning"],
-        "image_url": "images/room1.jpg"
+        "images": [
+            "../images/room1-1.jpg",
+            "../images/room7-2.jpg"
+        ]
     },
     {
         "room_id": 16,
@@ -141,7 +189,10 @@
         "availability": "Yes",
         "description": "A cozy single room with a comfortable bed and a view of the garden.",
         "amenities": ["Free Wi-Fi", "TV", "Air Conditioning"],
-        "image_url": "images/room1.jpg"
+        "images": [
+            "../images/room1-1.jpg",
+            "../images/room9-1.jpg" 
+        ]
     },
     {
         "room_id": 17,
@@ -150,7 +201,10 @@
         "availability": "No",
         "description": "A spacious double room with two queen-sized beds and a balcony.",
         "amenities": ["Free Wi-Fi", "TV", "Air Conditioning", "Mini Fridge"],
-        "image_url": "images/room2.jpg"
+        "images": [
+            "../images/room2-1.jpg",
+            "../images/room4-1.jpg" 
+        ]
     },
     {
         "room_id": 18,
@@ -159,6 +213,9 @@
         "availability": "Yes",
         "description": "A luxurious suite with a king-sized bed, living area, and private jacuzzi.",
         "amenities": ["Free Wi-Fi", "TV", "Air Conditioning", "Mini Bar", "Room Service"],
-        "image_url": "images/room3.jpg"
+        "images": [
+            "../images/room3-1.jpg",
+            "../images/room2-1.jpg" 
+        ]
     }
 ]
